@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180" align="left" src="https://github-stats-extended.vercel.app/api?username=Canscx&theme=light_github&show_icons=true" />
-<img height="180" align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Canscx&langs_count=6&layout=compact&theme=light_github" />
-<img height="180" align="left" src="https://github-stats-extended.vercel.app/api/?username=Canscx&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=My+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
+<table align="center"><tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Canscx&theme=light_github&show_icons=true" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Canscx&langs_count=6&layout=compact&theme=light_github" /></td>
+</tr></table>
+
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/?username=Canscx&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=My+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" /></p>
+
 <br clear="both" />
