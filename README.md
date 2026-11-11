@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-stats-extended.vercel.app/api/?username=Canscx&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=My+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" /></p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Canscx&theme=dark&hide_border=true" /></p>
 
-<p align="center"><img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contributions" /></p>
+<p align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" /></p>
